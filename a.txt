@@ -3,3 +3,4 @@ second commit | branch1
 third commit | branch1
 fourth commit | branch1
 fifth commit | branch1
+sixth commit | branch1
